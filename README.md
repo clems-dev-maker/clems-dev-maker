@@ -1,16 +1,33 @@
-## Hi there 👋
+Clément Cathala
+Développeur Web / Full-stack
 
-<!--
-**clems-dev-maker/clems-dev-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python • Django • React • JavaScript
 
-Here are some ideas to get you started:
+À propos
+--------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je développe des applications web et mobiles...
+
+Projets
+-------
+
+🛒 Django E-commerce
+🌦️ WeatherApp
+📊 Portfolio Intelligence
+
+Stack
+-----
+
+Python
+Django
+React
+React Native
+TypeScript
+JavaScript
+Git/GitHub
+
+Actuellement
+------------
+
+Recherche d'une alternance de 12 mois
+Toulouse / Occitanie
